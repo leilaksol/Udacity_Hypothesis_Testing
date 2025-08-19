@@ -100,5 +100,5 @@ README.md — Project documentation
 
 👤 **Author**
 
-Leila Soltani — LinkedIn(https://www.linkedin.com/in/leilak-soltan/) | GitHub(https://github.com/leilaksol)
+Leila Soltani — [LinkedIn](https://www.linkedin.com/in/leilak-soltan/) | [GitHub](https://github.com/leilaksol)
 
