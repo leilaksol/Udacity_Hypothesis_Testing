@@ -4,7 +4,7 @@ my final project of "Hypothesis Testing" course in Udacity
 
 # A/B Testing Project — New vs. Old Landing Page
 
-#📌 Overview 
+📌 ***Overview***
 
 - This repository contains my course project completed as part of the Udacity "Hypothesis Testing" course.
 
