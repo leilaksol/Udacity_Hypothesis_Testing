@@ -68,8 +68,8 @@ my final project of "Hypothesis Testing" course in Udacity
 
 - Clone this repo:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/leilaksol/Udacity_Hypothesis_Testing.git
+cd Udacity_Hypothesis_Testing
 ```
 
 
