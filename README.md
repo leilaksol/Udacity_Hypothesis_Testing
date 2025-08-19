@@ -16,14 +16,14 @@ ab_data.csv: Contains user visits, assigned group (control/treatment), landing p
 
 countries.csv: Maps users to their country of origin (CA, US, UK).
 
-🧪 Methodology
-Part I — Probability & Sampling
+🧪 **Methodology**
+**Part I — Probability & Sampling**
 
 Cleaned and explored the data (ensured group/page consistency).
 
 Calculated baseline conversion probabilities.
 
-Part II — Hypothesis Testing
+**Part II — Hypothesis Testing**
 
 Null Hypothesis (H₀): Conversion rates of old and new pages are equal.
 
@@ -37,7 +37,7 @@ Two-sided Z-test for proportions
 
 Result: Fail to reject H₀. No significant difference between old and new pages.
 
-Part III — Regression Approach
+**Part III — Regression Approach**
 
 Fit a logistic regression model predicting conversion based on page type.
 
@@ -51,7 +51,7 @@ Country had no meaningful effect (though UK showed a weak positive trend).
 
 Model fit was very poor (Pseudo R² ≈ 0).
 
-📊 Key Findings
+📊 **Key Findings**
 
 The new landing page does not increase conversion compared to the old page.
 
@@ -59,13 +59,13 @@ Country of user does not significantly affect conversion likelihood.
 
 Both A/B test and regression agree — we fail to reject the null hypothesis.
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
 
 Python: Pandas, NumPy, Matplotlib, Statsmodels, Scipy
 
 Statistical Methods: Hypothesis testing, bootstrapping, logistic regression
 
-🚀 How to Run
+🚀 **How to Run**
 
 Clone this repo:
 
@@ -82,13 +82,13 @@ Run the notebook:
 
 jupyter notebook ab_test_analysis.ipynb
 
-📖 Interpretation
+📖 **Interpretation**
 
 Neither the A/B test nor the regression model found statistical evidence that the new page outperforms the old page.
 
 Recommendation: Stick with the old landing page, or test a different design.
 
-📝 Files in Repo
+📝 **Files in Repo**
 
 ab_data.csv — Experiment dataset
 
@@ -98,6 +98,7 @@ ab_test_analysis.ipynb — Main Jupyter Notebook
 
 README.md — Project documentation
 
-👤 Author
+👤 **Author**
 
-Your Name — LinkedIn | GitHub
+Leila Soltani — LinkedIn(https://www.linkedin.com/in/leilak-soltan/) | GitHub(https://github.com/leilaksol)
+
