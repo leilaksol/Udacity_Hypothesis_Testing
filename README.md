@@ -6,22 +6,20 @@ my final project of "Hypothesis Testing" course in Udacity
 
 📌 **Overview**
 
-This repository contains my A/B Testing project completed as part of the Udacity Data Analyst Nanodegree Program.
+This repository contains my course project completed as part of the Udacity "Hypothesis Testing" course.
 
 The goal of the project is to determine whether introducing a new landing page increases conversion rates compared to the existing (old) page. Using real experiment data, I apply both frequentist hypothesis testing and logistic regression to evaluate the results.
 
 📂 **Dataset**
 
-ab_data.csv: Contains user visits, assigned group (control/treatment), landing page, and conversion outcome.
-
-countries.csv: Maps users to their country of origin (CA, US, UK).
+- ab_data.csv: Contains user visits, assigned group (control/treatment), landing page, and conversion outcome.
+- countries.csv: Maps users to their country of origin (CA, US, UK).
 
 🧪 **Methodology**
 **Part I — Probability & Sampling**
 
-Cleaned and explored the data (ensured group/page consistency).
-
-Calculated baseline conversion probabilities.
+- Cleaned and explored the data (ensured group/page consistency).
+- Calculated baseline conversion probabilities.
 
 **Part II — Hypothesis Testing**
 
