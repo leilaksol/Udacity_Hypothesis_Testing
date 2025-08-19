@@ -95,6 +95,7 @@ jupyter notebook Analyze_ab_test_results_notebook.ipynb
 - countries.csv — User-country mapping
 - ab_test_analysis.ipynb — Main Jupyter Notebook
 - README.md — Project documentation
+- requirements.txt
 
 👤 **Author**
 
