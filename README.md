@@ -93,7 +93,7 @@ jupyter notebook Analyze_ab_test_results_notebook.ipynb
 
 - ab_data.csv — Experiment dataset
 - countries.csv — User-country mapping
-- ab_test_analysis.ipynb — Main Jupyter Notebook
+- Analyze_ab_test_results_notebook.ipynb — Main Jupyter Notebook
 - README.md — Project documentation
 - requirements.txt
 
