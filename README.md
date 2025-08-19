@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 - Run the notebook:
 ```bash
-jupyter notebook ab_test_analysis.ipynb
+jupyter notebook Analyze_ab_test_results_notebook.ipynb
 ```
 # 📖 Interpretation
 
