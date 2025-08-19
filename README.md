@@ -67,20 +67,22 @@ my final project of "Hypothesis Testing" course in Udacity
 # 🚀 How to Run
 
 - Clone this repo:
-
+```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+```
+
 
 
 - Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 - Run the notebook:
-
+```bash
 jupyter notebook ab_test_analysis.ipynb
-
+```
 # 📖 Interpretation
 
 - Neither the A/B test nor the regression model found statistical evidence that the new page outperforms the old page.
@@ -90,11 +92,8 @@ jupyter notebook ab_test_analysis.ipynb
 # 📝 Files in Repo
 
 - ab_data.csv — Experiment dataset
-
 - countries.csv — User-country mapping
-
 - ab_test_analysis.ipynb — Main Jupyter Notebook
-
 - README.md — Project documentation
 
 👤 **Author**
