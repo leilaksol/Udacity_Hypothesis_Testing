@@ -16,7 +16,7 @@ my final project of "Hypothesis Testing" course in Udacity
 - ab_data.csv: Contains user visits, assigned group (control/treatment), landing page, and conversion outcome.
 - countries.csv: Maps users to their country of origin (CA, US, UK).
 
-🧪 # Methodology
+# 🧪 Methodology
 **Part I — Probability & Sampling**
 
 - Cleaned and explored the data (ensured group/page consistency).
@@ -50,7 +50,7 @@ my final project of "Hypothesis Testing" course in Udacity
 
 - Model fit was very poor (Pseudo R² ≈ 0).
 
-📊 # Key Findings
+# 📊 Key Findings
 
 - The new landing page does not increase conversion compared to the old page.
 
@@ -58,13 +58,13 @@ my final project of "Hypothesis Testing" course in Udacity
 
 - Both A/B test and regression agree — we fail to reject the null hypothesis.
 
-⚙️ #Tech Stack
+# ⚙️ Tech Stack
 
 - Python: Pandas, NumPy, Matplotlib, Statsmodels, Scipy
 
 - Statistical Methods: Hypothesis testing, bootstrapping, logistic regression
 
-🚀 #How to Run
+# 🚀 How to Run
 
 - Clone this repo:
 
@@ -81,13 +81,13 @@ pip install -r requirements.txt
 
 jupyter notebook ab_test_analysis.ipynb
 
-📖 #Interpretation
+# 📖 Interpretation
 
 - Neither the A/B test nor the regression model found statistical evidence that the new page outperforms the old page.
 
 - Recommendation: Stick with the old landing page, or test a different design.
 
-📝 # Files in Repo
+# 📝 Files in Repo
 
 - ab_data.csv — Experiment dataset
 
